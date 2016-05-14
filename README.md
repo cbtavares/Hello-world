@@ -2,10 +2,9 @@
 
 
 Ficehiro que se edita com um editor :)
-Ver se o notepad altera a extensão
+Ver se o notepad altera a extens�o
 
-Alteração dois
+Altera��o dois
 
-Nova edição
 
-Esta é a versão english-branch
+Ver se este vai para a master
