@@ -2,6 +2,8 @@
 
 
 Ficehiro que se edita com um editor :)
-Ver se o notepad altera a extens„o
+Ver se o notepad altera a extens√£o
 
-AlteraÁ„o dois
+Altera√ß√£o dois
+
+Nova edi√ß√£o
