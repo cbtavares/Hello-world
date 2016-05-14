@@ -7,3 +7,5 @@ Ver se o notepad altera a extensão
 Alteração dois
 
 Nova edição
+
+Esta é a versão english-branch
