@@ -2,8 +2,10 @@
 
 
 Ficehiro que se edita com um editor :)
-Ver se o notepad altera a extensÃ£o
+Ver se o notepad altera a extensão
 
-AlteraÃ§Ã£o dois
+Alteração dois
 
-Nova ediÃ§Ã£o
+
+Ver se este vai para a master
+AInda no master
